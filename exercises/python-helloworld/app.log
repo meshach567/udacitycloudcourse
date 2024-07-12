@@ -18,3 +18,9 @@ INFO:werkzeug: * Running on http://192.168.144.61:5000/ (Press CTRL+C to quit)
 WARNING:werkzeug: * Running on all addresses.
    WARNING: This is a development server. Do not use it in a production deployment.
 INFO:werkzeug: * Running on http://192.168.144.61:5000/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.144.61:5000/ (Press CTRL+C to quit)
+INFO:app:Main request successful
+INFO:werkzeug:127.0.0.1 - - [11/Jul/2024 18:39:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jul/2024 18:39:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
